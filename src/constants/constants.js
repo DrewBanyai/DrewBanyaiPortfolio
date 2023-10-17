@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Portfolio Site',
     description: "This is a code repository for this website, showcasing front-End development with Javascript ES6 and React",
-      image: '/images/DrewBanyaiPortfolio_Cover.png',
+      image: './images/DrewBanyaiPortfolio_Cover.png',
       tags: ['Javascript ES6', 'React'],
       repo: 'https://github.com/DrewBanyai/DrewBanyaiPortfolio',
     id: 0,
@@ -10,7 +10,7 @@ export const projects = [
   {
     title: 'Jinx Coffeehouse',
     description: "This is a code repository for a full-stack project utilizing Javascript ES6, React, .NET 7 REST APIs, MongoDB, and a mobile app built with Python",
-    image: '/images/JinxCoffeehouseDotCom_Cover.png',
+    image: './images/JinxCoffeehouseDotCom_Cover.png',
     tags: ['Javascript ES6', 'React', '.NET 7', 'MongoDB', 'Python'],
     repo: 'https://github.com/DrewBanyai/JinxCoffeehouse',
     id: 1,
@@ -18,7 +18,7 @@ export const projects = [
   {
     title: 'Home AI',
     description: "This is a code repository for a simple voice-recognition and speech-return AI that can complete certain tasks from a PC or mobile device written in Python",
-      image: '/images/HomeAI_Cover.png',
+      image: './images/HomeAI_Cover.png',
       tags: ['Python', 'AI'],
     repo: 'https://github.com/DrewBanyai/HomeAI',
     id: 2,
@@ -26,7 +26,7 @@ export const projects = [
   {
     title: 'Twitch Tools',
     description: "This is a code repository for the various tools I've built for Twitch streamers. Most utilize a connection to the IRC protocol to utilize Twitch chat integration and enact custom functionality through it.",
-    image: '/images/TwitchTools_Cover.png',
+    image: './images/TwitchTools_Cover.png',
     tags: ['Javascript ES6', 'Tools', 'IRC protocol'],
     repo: 'https://github.com/DrewBanyai/TwitchTools',
     id: 3,

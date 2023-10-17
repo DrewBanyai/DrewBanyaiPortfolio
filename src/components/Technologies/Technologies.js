@@ -29,7 +29,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <CgServer size="3rem" stroke="white"/>
+          <CgServer size="3rem" stroke="white" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>

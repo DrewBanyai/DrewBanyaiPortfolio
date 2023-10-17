@@ -10,7 +10,7 @@ import { Container, Div1, Div2, Div3, NavLink, NavLinkLi, SocialIcons } from './
 const Header = () =>  (
   <Container>
     <Div1 style={{marginBottom:"10px"}}>
-      <Link href="/">
+      <Link href="./">
         <a style={{ display: 'flex', alignItems: 'center', color: "white" }}>
           <PortfolioIcon size="3rem" /> <span style={{marginLeft:"10px"}}>Portfolio - Drew Banyai</span>
         </a>
