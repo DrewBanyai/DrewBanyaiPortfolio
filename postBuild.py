@@ -25,5 +25,3 @@ except Exception as e:
 with open("./index.html", 'w') as f:
     f.write(file)
     f.close()
-
-    
