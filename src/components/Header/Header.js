@@ -18,7 +18,7 @@ const Header = () =>  (
     </Div1>
     <Div2 style={{marginTop:"4px"}}>
       <NavLinkLi>
-        <Link href="#menu">
+        <Link href="#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </NavLinkLi>
